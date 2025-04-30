@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **Masters in Computer Science** at **[Rutgers University](https://www.rutgers.edu/)**
 
-- 👯 I’m looking to collaborate on **Multiple Projects** related to **Machine Learning and Web Development**
+- 👯 I’m looking to collaborate on **Projects** related to **Machine Learning and Web Development**
 
 - 📫 How to reach me **mihirushinde29@gmail.com**
 
