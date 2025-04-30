@@ -1,16 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihir</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihir Shinde</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer and ML Freak.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently in **2nd Year Computer Engineering** at **[Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/)**
+- 🔭 I’m currently pursuing **Masters in Computer Science** at **[Rutgers University](https://www.rutgers.edu/)**
 
-- 🌱 I’m currently learning **Web3 and Blockchain.**
-
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **Multiple Projects** related to **Machine Learning and Web Development**
 
 - 📫 How to reach me **mihirushinde29@gmail.com**
 
@@ -32,6 +30,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="45" height="45"/> </a> 
     <a style="padding-right:8px;" href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/> </a>
     <a style="padding-right:8px;" href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a> 
     <a style="padding-right:8px;" href="https://atom.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="45" height="45"/> </a> 
