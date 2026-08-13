@@ -1,81 +1,43 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihir Shinde</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer and ML Freak.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently pursuing **Masters in Computer Science** at **[Rutgers University](https://www.rutgers.edu/)**
-
-- 👯 I’m looking to collaborate on **Projects** related to **Machine Learning and Web Development**
-
-- 📫 How to reach me **mihirushinde29@gmail.com**
-
-- ⚡ Fun fact **I play games and watch anime very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" alt="nextjs" width="45" height="45"/> </a>
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="45" height="45"/> </a> 
-    <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="auto" height="45"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a> 
-    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="45" height="45"/> </a> 
-    <a style="padding-right:8px;" href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="45" height="45"/> </a>
-    <a style="padding-right:8px;" href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a> 
-    <a style="padding-right:8px;" href="https://atom.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="45" height="45"/> </a> 
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupiter" width="45" height="45"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h1 align="center">Hi, I'm Mihir Shinde 👋</h1>
+<h3 align="center">Software & Machine Learning Engineer · MS Computer Science @ Rutgers</h3>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mihir Shinde's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirShinde-29&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://www.linkedin.com/in/mihir-shinde-cs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mihirushinde29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Mihir Shinde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MihirShinde-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Mihir Shinde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirShinde-29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+### 👨‍💻 About
 
+- 🎓 MS in Computer Science at **Rutgers University–New Brunswick** (graduating Dec 2026)
+- 🔬 I build **end to end** — from ML models in production to the full-stack apps around them
+- 🧠 **Machine Learning & Full-Stack Engineer (Research Assistant)** — deploying computer-vision models (PyTorch → ONNX/FastAPI) inside a React Native app
+- 🏆 **1st place, Smart India Hackathon 2022** &nbsp;·&nbsp; 📄 **IEEE publication (2023)** &nbsp;·&nbsp; 🔧 **3 merged PRs to Novu (39k⭐)**
 
-<br/>
-<br/>
+### 🚀 Featured Projects
+> Several are team projects — my specific contributions are noted. My strongest work spans these repos.
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Mihir Shinde's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MihirShinde-29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+| Project | What I built | Links |
+|---|---|---|
+| **MentorDots** — 🏆 Smart India Hackathon 2022 winner | React web frontend for a startup–mentor matching platform | [Repo](https://github.com/VismayVora/MentorDots) |
+| **AI-Healthcare License Automation** | Frontend + API layer for a Python AI agent that auto-fills healthcare credentialing forms | [Repo](https://github.com/kashish-vaish/AI-Powered-Healthcare-License-Automation) · [Demo](https://youtu.be/SP1D1DstFgg) |
+| **DecentVote** | Blockchain e-voting app with Ethereum smart contracts (Solidity) | [Repo](https://github.com/dishantzaveri/Rubix23-6-EnemiesOfSyntax) |
+| **Open Source — Novu (39k⭐)** | 3 merged PRs: variable-manager, command-palette navigation, Cypress component test | [My PRs](https://github.com/novuhq/novu/pulls?q=is%3Apr+author%3AMihirShinde-29+is%3Amerged) |
 
-<br/>
+### 🧰 Tech Stack
 
-<!-- ## Connect with me:
-<p align="left">
+**Languages:** Python · Java · C/C++ · JavaScript · TypeScript · SQL · Solidity
+**ML / AI:** PyTorch · ONNX Runtime · YOLO · OpenCV · scikit-learn · Pandas · NumPy
+**Web & Mobile:** React · React Native · Next.js · Node.js · Express · FastAPI · Redux · Tailwind
+**Data & Cloud:** PostgreSQL · MongoDB · Kafka · AWS (EC2/S3/IAM) · Docker · nginx · Git
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+### 📄 Publication
+["Secure Peer-to-Peer Communication using Private Network Blockchain Technology," IEEE, 2023](https://ieeexplore.ieee.org/document/10393506)
 
-</p> -->
+---
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MihirShinde-29">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/MihirShinde-29?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirShinde-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirShinde-29&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="165"/>
+</p>
