@@ -13,16 +13,17 @@
 - 🎓 MS in Computer Science at **Rutgers University–New Brunswick** (graduating Dec 2026)
 - 🔬 I build **end to end** — from ML models in production to the full-stack apps around them
 - 🧠 **Machine Learning & Full-Stack Engineer (Research Assistant)** — deploying computer-vision models (PyTorch → ONNX/FastAPI) inside a React Native app
-- 🏆 **1st place, Smart India Hackathon 2022** &nbsp;·&nbsp; 📄 **IEEE publication (2023)** &nbsp;·&nbsp; 🔧 **3 merged PRs to Novu (39k⭐)**
+- 🏆 **2× hackathon winner** — Smart India Hackathon 2022 & UST D3CODE 2023 &nbsp;·&nbsp; 📄 **IEEE publication (2023)** &nbsp;·&nbsp; 🔧 **3 merged PRs to Novu (39k⭐)**
 
 ### 🚀 Featured Projects
-> Several are team projects — my specific contributions are noted. My strongest work spans these repos.
+> Several are team projects — my specific contributions are noted.
 
 | Project | What I built | Links |
 |---|---|---|
-| **MentorDots** — 🏆 Smart India Hackathon 2022 winner | React web frontend for a startup–mentor matching platform | [Repo](https://github.com/VismayVora/MentorDots) |
-| **AI-Healthcare License Automation** | Frontend + API layer for a Python AI agent that auto-fills healthcare credentialing forms | [Repo](https://github.com/kashish-vaish/AI-Powered-Healthcare-License-Automation) · [Demo](https://youtu.be/SP1D1DstFgg) |
-| **DecentVote** | Blockchain e-voting app with Ethereum smart contracts (Solidity) | [Repo](https://github.com/dishantzaveri/Rubix23-6-EnemiesOfSyntax) |
+| **MentorDots** — 🏆 Smart India Hackathon 2022 winner | React web frontend for a startup–mentor matching platform | [Repo](https://github.com/MihirShinde-29/MentorDots) |
+| **SoulSupport** — 🏆 UST D3CODE 2023 winner | 3D-avatar backend + OpenAI/LLM integration for an LLM-powered mental-health companion | [Repo](https://github.com/MihirShinde-29/SoulSupport) |
+| **AI-Healthcare License Automation** | Frontend + API layer for a Python AI agent that auto-fills healthcare credentialing forms | [Repo](https://github.com/MihirShinde-29/AI-Powered-Healthcare-License-Automation) · [Demo](https://youtu.be/SP1D1DstFgg) |
+| **BillionAbles** | Assistive tool for differently-abled users (team hackathon project) | [Repo](https://github.com/MihirShinde-29/BillionAbles) |
 | **Open Source — Novu (39k⭐)** | 3 merged PRs: variable-manager, command-palette navigation, Cypress component test | [My PRs](https://github.com/novuhq/novu/pulls?q=is%3Apr+author%3AMihirShinde-29+is%3Amerged) |
 
 ### 🧰 Tech Stack
